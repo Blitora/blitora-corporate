@@ -98,7 +98,7 @@ export default function Home() {
             </Link>
           </div>
           <div className="grid md:grid-cols-2 gap-5">
-            <a href="https://pulse.blitora.com"
+            <a href="https://pulse.blitora.com" target="_blank" rel="noopener noreferrer"
               className="group relative rounded-2xl p-8 text-white overflow-hidden hover:scale-[1.015] transition-transform"
               style={{ background: 'linear-gradient(135deg, #0D4A35 0%, #1D9E75 100%)' }}>
               <div className="absolute top-0 right-0 w-48 h-48 rounded-full opacity-10"
@@ -175,7 +175,7 @@ export default function Home() {
           <p className="text-[16px] md:text-[18px] mb-8" style={{ color: '#C4CBDE' }}>
             Start with Blitora Pulse — 14 days free, no credit card required.
           </p>
-          <a href="https://pulse.blitora.com/signup"
+          <a href="https://pulse.blitora.com/signup" target="_blank" rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 rounded-full font-bold text-[16px] text-white shadow-xl hover:opacity-90 transition-opacity"
             style={{ backgroundColor: '#E8560A' }}>
             Start your free trial
