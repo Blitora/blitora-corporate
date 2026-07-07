@@ -30,8 +30,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Blitora — Cloud Business Software Platform | India & Gulf</title>
-        <meta name="description" content="Blitora builds AI-powered cloud SaaS software for businesses across India and the Gulf. Products: Blitora Pulse (AI health platform), Blitora CRM, Blitora Serve (restaurants & cloud kitchens), Blitora People (HR & payroll). Fast to deploy, simple to run, powerful at scale." />
+        <title>Blitora — Cloud Business Software Platform | Powering Progress.</title>
+        <meta name="description" content="Blitora builds AI-powered cloud SaaS software for businesses across businesses worldwide. Products: Blitora Pulse (AI health platform), Blitora CRM, Blitora Serve (restaurants & cloud kitchens), Blitora People (HR & payroll). Fast to deploy, simple to run, powerful at scale." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="keywords" content="Blitora, cloud software India, SaaS UAE, SaaS Gulf, health management software India, dietitian software, CRM India, restaurant management software, HR payroll software India, AI health platform, business software Pune, business software Dubai" />
         <meta name="author" content="Blitora" />
@@ -39,20 +39,20 @@ export default function Home() {
         <link rel="canonical" href="https://www.blitora.com" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Blitora — Powering Progress." />
-        <meta property="og:description" content="One platform, many products, every industry. AI-powered cloud SaaS for health, sales, restaurants and HR — built for India and the Gulf." />
+        <meta property="og:description" content="One platform, many products, every industry. AI-powered cloud SaaS for health, sales, restaurants and HR — built for businesses worldwide." />
         <meta property="og:url" content="https://www.blitora.com" />
         <meta property="og:site_name" content="Blitora" />
         <meta property="og:image" content="https://www.blitora.com/og-image.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Blitora — Powering Progress." />
-        <meta name="twitter:description" content="Cloud SaaS for India & Gulf. Health, CRM, kitchens, HR — one login, one platform, every industry." />
+        <meta name="twitter:description" content="Cloud SaaS for Powering Progress. Health, CRM, kitchens, HR — one login, one platform, every industry." />
         <script type="application/ld+json" dangerouslySetInnerHTML={{__html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "Organization",
           "name": "Blitora",
           "url": "https://www.blitora.com",
           "logo": "https://www.blitora.com/logo.png",
-          "description": "Multi-product AI-powered cloud SaaS platform for businesses in India and the Gulf region.",
+          "description": "Multi-product AI-powered cloud SaaS platform for businesses in businesses worldwide region.",
           "foundingDate": "2026",
           "areaServed": ["IN", "AE", "SA", "QA", "KW"],
           "hasOfferCatalog": {
@@ -60,7 +60,7 @@ export default function Home() {
             "name": "Blitora Product Suite",
             "itemListElement": [
               {"@type": "Offer", "name": "Blitora Pulse", "description": "AI-powered health management platform for dietitians and clinics"},
-              {"@type": "Offer", "name": "Blitora CRM", "description": "CRM and sales platform for India and Gulf businesses"},
+              {"@type": "Offer", "name": "Blitora CRM", "description": "CRM and sales platform for global businesses"},
               {"@type": "Offer", "name": "Blitora Serve", "description": "Cloud kitchen and restaurant management software"},
               {"@type": "Offer", "name": "Blitora People", "description": "HR, attendance and payroll software"}
             ]
